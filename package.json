@@ -1,0 +1,37 @@
+{
+    "name": "memdb-client",
+    "description": "memdb node.js client",
+    "version": "0.3.0",
+    "author": "rain1017",
+    "private" : false,
+    "homepage" : "https://github.com/rain1017/memdb-client",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/rain1017/memdb-client.git"
+    },
+    "bugs" : {
+        "url" : "https://github.com/rain1017/memdb/issues"
+    },
+    "keywords" : [
+        "memdb"
+    ],
+    "engines": {
+        "node": ">=0.10.x"
+    },
+    "scripts": {
+        "start": "",
+        "test": "",
+        "postinstall": ""
+    },
+    "dependencies": {
+        "memdb-logger": "rain1017/memdb-logger",
+        "bluebird": "~2.9.24",
+        "lodash": "~3.7.0",
+        "async-lock": "~0.3.5",
+        "mongoose": "4.0.5",
+        "mongodb": "2.0.34",
+        "node-uuid" : "~1.4.3"
+    },
+    "devDependencies": {
+    }
+}
