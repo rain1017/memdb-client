@@ -4,13 +4,13 @@
     "version": "0.5.6",
     "author": "rain1017",
     "private" : false,
-    "homepage" : "https://github.com/memdb/memdb-client",
+    "homepage" : "https://github.com/rain1017/memdb-client",
     "repository" : {
         "type" : "git",
-        "url" : "https://github.com/memdb/memdb-client.git"
+        "url" : "https://github.com/rain1017/memdb-client.git"
     },
     "bugs" : {
-        "url" : "https://github.com/memdb/memdb/issues"
+        "url" : "https://github.com/rain1017/memdb/issues"
     },
     "keywords" : [
         "memdb"
